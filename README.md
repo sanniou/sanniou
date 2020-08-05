@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanniou&hide=C" />
-<img src="https://github-readme-stats.vercel.app/api?username=sanniou&show_icons=true&theme=prussian" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanniou&hide=C&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanniou&show_icons=true&theme=dracula&count_private=true" />
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
