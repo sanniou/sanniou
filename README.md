@@ -3,9 +3,13 @@
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/OS-Windows10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/catalina/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+<!--
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+-->
+
+
 
 [![](https://img.shields.io/badge/IDE-Intellij%20IDEA-blue?&logo=Intellij-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-blue?style=flat-square&logo=android-studio&logoColor=ffffff)](https://developer.android.com/)
