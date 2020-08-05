@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![](https://count.getloli.com/get/@sanniou.readme)](https://count.getloli.com/)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanniou&hide=C" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanniou&show_icons=true&theme=prussian" />
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
